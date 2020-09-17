@@ -10,4 +10,7 @@ The left part of the chat is composed wih contacts and the profiles.
 
 Here is the profile of the person speaking to the bot.
 
+### Contact 
+
+Just below the profile there is the contact list 
 
