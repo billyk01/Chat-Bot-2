@@ -6,3 +6,8 @@ The Chat Bot is used to interact with a bot.
 
 The left part of the chat is composed wih contacts and the profiles.
 
+### Profile
+
+Here is the profile of the person speaking to the bot.
+
+
