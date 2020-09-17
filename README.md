@@ -14,3 +14,8 @@ Here is the profile of the person speaking to the bot.
 
 Just below the profile there is the contact list 
 
+##### how it looks
+|  LEFT PART   |
+|    :---:     |
+|   PROFILE    |
+|   CONTACT    |
